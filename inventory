@@ -11,12 +11,12 @@ pg_port=''
 
 pg_database='awx'
 pg_username='awx'
-pg_password='password'
+pg_password='admin'
 
 rabbitmq_port=5672
 rabbitmq_vhost=tower
 rabbitmq_username=tower
-rabbitmq_password='redhat'
+rabbitmq_password='admin'
 rabbitmq_cookie=rabbitmqcookie
 
 # Needs to be true for fqdns and ip addresses
